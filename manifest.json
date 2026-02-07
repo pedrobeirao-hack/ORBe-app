@@ -3,7 +3,7 @@
   "name": "ORBe Casal",
   "short_name": "ORBe",
   "description": "Controlo financeiro inteligente para casais.",
-  "start_url": "./",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#f8fafc",
   "theme_color": "#10b981",
