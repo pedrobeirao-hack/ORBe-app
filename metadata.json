@@ -1,0 +1,7 @@
+{
+  "name": "ORBe",
+  "description": "Um gestor financeiro minimalista e elegante com tons esmeralda, focado em controlo partilhado para casais e facilidade de uso.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
